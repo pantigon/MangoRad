@@ -5,7 +5,7 @@ Bash Script Installer MangoSpot Radius Server (Webserver, Mysql, PostgreSQL, Fre
 - install git
 ```
 ```
-- git clone hhttps://github.com/pantigon/MangoRad.git
+- git clone https://github.com/pantigon/MangoRad.git
 ```
 or
 ```
