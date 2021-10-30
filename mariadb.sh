@@ -6,7 +6,7 @@ echo ">>> Installing MariaDB <<<"
 MARIADB_VERSION='10.1'
 
 # Install MariaDB
-sudo apt-get install -y php7.2-mysql mariadb-server mariadb-client
+sudo apt install -y php7.2-mysql mariadb-server mariadb-client
 sudo mysql_secure_installation
 
 # Make Maria connectable from outside world without SSH tunnel
